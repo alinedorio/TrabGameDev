@@ -1,0 +1,26 @@
+# Diretórios gerados automaticamente
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+
+/nivelUm
+# Arquivos temporários e metadados
+*.meta
+*.tmp
+*.unitymeta
+
+# Arquivos de log e backup
+*.log
+*.bak
+
+# Ignorar pacotes instalados (opcional)
+/Packages/
+
+# Configurações do projeto (ignorar parcialmente)
+/ProjectSettings/Editor*.unitymeta
+/ProjectSettings/Cache/
+/ProjectSettings/Packages/''
+
+# Especifique aqui os arquivos e pastas específicos do seu projeto que você deseja ignorar'
